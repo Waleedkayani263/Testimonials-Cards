@@ -1,8 +1,8 @@
-Testimonial Slider UI | Tailwind CSS
+# Testimonial Slider UI | Tailwind CSS
 
-This project is a responsive testimonial slider built entirely using Tailwind CSS. It showcases multiple testimonial cards in a horizontal scrollable slider format. Users can view three testimonial cards at a time on larger screens, and additional cards appear smoothly as the user scrolls horizontally.
+This project is a responsive testimonial slider built entirely using **Tailwind CSS**. It showcases multiple testimonial cards in a **horizontal scrollable** slider format. Users can view three testimonial cards at a time on larger screens, and additional cards appear smoothly as the user scrolls horizontally.
 
-The design demonstrates the use of flexbox, horizontal scrolling, snapping, and card styling with a professional, clean UI.
+The design demonstrates the use of **flexbox, horizontal scrolling, snapping,** and **card styling** with a professional, clean UI.
 
 # Features
 
@@ -22,7 +22,7 @@ The design demonstrates the use of flexbox, horizontal scrolling, snapping, and 
 
 Html5
 
-Tailwand CSS (Play CDN)
+Tailwand CSS **(Play CDN)**
 
 # How It Works
 
@@ -47,7 +47,7 @@ Tailwand CSS (Play CDN)
 
 **snap-start →** Ensures smooth snapping
 
-hover:translate-y-2 + hover:shadow-lg → Interactive hover effect
+**hover:translate-y-2 + hover:shadow-lg →** Interactive hover effect
 
 # Usage
 
